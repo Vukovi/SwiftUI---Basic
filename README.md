@@ -1,2 +1,8 @@
 # SwiftUI---Basic
-TEST
+
+### TEXT
+Ovako se font prilagodjava velicini ekrana
+```
+.font(.body)
+```
+            
