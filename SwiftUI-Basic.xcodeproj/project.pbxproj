@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18B4E1A22B14AA930095AE5D /* 61_ViewThatFits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B4E1A12B14AA930095AE5D /* 61_ViewThatFits.swift */; };
 		CB286D482AF2A8F2004BE3AF /* SwiftUI_BasicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB286D472AF2A8F2004BE3AF /* SwiftUI_BasicApp.swift */; };
 		CB286D4A2AF2A8F2004BE3AF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB286D492AF2A8F2004BE3AF /* ContentView.swift */; };
 		CB286D4C2AF2A8F4004BE3AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB286D4B2AF2A8F4004BE3AF /* Assets.xcassets */; };
@@ -76,6 +77,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18B4E1A12B14AA930095AE5D /* 61_ViewThatFits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 61_ViewThatFits.swift; sourceTree = "<group>"; };
 		CB286D442AF2A8F2004BE3AF /* SwiftUI-Basic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Basic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB286D472AF2A8F2004BE3AF /* SwiftUI_BasicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BasicApp.swift; sourceTree = "<group>"; };
 		CB286D492AF2A8F2004BE3AF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -239,6 +241,7 @@
 				CBF861382AFE6D6300EA2E8C /* 58_DropdownMenu.swift */,
 				CBF8613A2AFE6E2B00EA2E8C /* 59_Popover.swift */,
 				CBF8613C2AFE73CB00EA2E8C /* 60_AnyLayout.swift */,
+				18B4E1A12B14AA930095AE5D /* 61_ViewThatFits.swift */,
 			);
 			path = "SwiftUI-Basic";
 			sourceTree = "<group>";
@@ -345,6 +348,7 @@
 				CB65DC582AFBACC0000F0680 /* 38_Documentation & Marks.swift in Sources */,
 				CB65DC182AF6E646000F0680 /* 06_Image.swift in Sources */,
 				CB65DC6B2AFCFEE0000F0680 /* 45_AsyncImage.swift in Sources */,
+				18B4E1A22B14AA930095AE5D /* 61_ViewThatFits.swift in Sources */,
 				CB65DC322AF987DC000F0680 /* 19_Transitions.swift in Sources */,
 				CBF861332AFE680200EA2E8C /* 55_SafeAreaInsetsViews.swift in Sources */,
 				CBF8613D2AFE73CB00EA2E8C /* 60_AnyLayout.swift in Sources */,
