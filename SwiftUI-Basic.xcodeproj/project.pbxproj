@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		185962E32B9546A8000A45B3 /* 63_GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185962DE2B9546A8000A45B3 /* 63_GridView.swift */; };
+		185962E42B9546A8000A45B3 /* 66_ObservableMacro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185962DF2B9546A8000A45B3 /* 66_ObservableMacro.swift */; };
+		185962E52B9546A8000A45B3 /* 65_ControlGroupMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185962E02B9546A8000A45B3 /* 65_ControlGroupMenu.swift */; };
+		185962E62B9546A8000A45B3 /* 64_ContentUnavailableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185962E12B9546A8000A45B3 /* 64_ContentUnavailableView.swift */; };
+		185962E72B9546A8000A45B3 /* 62_NavigationSplitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185962E22B9546A8000A45B3 /* 62_NavigationSplitView.swift */; };
 		18B4E1A22B14AA930095AE5D /* 61_ViewThatFits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B4E1A12B14AA930095AE5D /* 61_ViewThatFits.swift */; };
 		CB286D482AF2A8F2004BE3AF /* SwiftUI_BasicApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB286D472AF2A8F2004BE3AF /* SwiftUI_BasicApp.swift */; };
 		CB286D4A2AF2A8F2004BE3AF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB286D492AF2A8F2004BE3AF /* ContentView.swift */; };
@@ -77,6 +82,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		185962DE2B9546A8000A45B3 /* 63_GridView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 63_GridView.swift; sourceTree = "<group>"; };
+		185962DF2B9546A8000A45B3 /* 66_ObservableMacro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 66_ObservableMacro.swift; sourceTree = "<group>"; };
+		185962E02B9546A8000A45B3 /* 65_ControlGroupMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 65_ControlGroupMenu.swift; sourceTree = "<group>"; };
+		185962E12B9546A8000A45B3 /* 64_ContentUnavailableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 64_ContentUnavailableView.swift; sourceTree = "<group>"; };
+		185962E22B9546A8000A45B3 /* 62_NavigationSplitView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 62_NavigationSplitView.swift; sourceTree = "<group>"; };
 		18B4E1A12B14AA930095AE5D /* 61_ViewThatFits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 61_ViewThatFits.swift; sourceTree = "<group>"; };
 		CB286D442AF2A8F2004BE3AF /* SwiftUI-Basic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Basic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB286D472AF2A8F2004BE3AF /* SwiftUI_BasicApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BasicApp.swift; sourceTree = "<group>"; };
@@ -242,6 +252,11 @@
 				CBF8613A2AFE6E2B00EA2E8C /* 59_Popover.swift */,
 				CBF8613C2AFE73CB00EA2E8C /* 60_AnyLayout.swift */,
 				18B4E1A12B14AA930095AE5D /* 61_ViewThatFits.swift */,
+				185962E22B9546A8000A45B3 /* 62_NavigationSplitView.swift */,
+				185962DE2B9546A8000A45B3 /* 63_GridView.swift */,
+				185962E12B9546A8000A45B3 /* 64_ContentUnavailableView.swift */,
+				185962E02B9546A8000A45B3 /* 65_ControlGroupMenu.swift */,
+				185962DF2B9546A8000A45B3 /* 66_ObservableMacro.swift */,
 			);
 			path = "SwiftUI-Basic";
 			sourceTree = "<group>";
@@ -351,6 +366,7 @@
 				18B4E1A22B14AA930095AE5D /* 61_ViewThatFits.swift in Sources */,
 				CB65DC322AF987DC000F0680 /* 19_Transitions.swift in Sources */,
 				CBF861332AFE680200EA2E8C /* 55_SafeAreaInsetsViews.swift in Sources */,
+				185962E42B9546A8000A45B3 /* 66_ObservableMacro.swift in Sources */,
 				CBF8613D2AFE73CB00EA2E8C /* 60_AnyLayout.swift in Sources */,
 				CB65DC262AF9084C000F0680 /* 13_LazyV_HGrid.swift in Sources */,
 				CB65DC0E2AF2F903000F0680 /* 01_Text.swift in Sources */,
@@ -361,6 +377,7 @@
 				CB65DC122AF452C8000F0680 /* 03_Colors.swift in Sources */,
 				CB65DC542AFBA34D000F0680 /* 36_TabView & PageControl.swift in Sources */,
 				CB65DC7B2AFD3EF1000F0680 /* 53_Toolbar.swift in Sources */,
+				185962E32B9546A8000A45B3 /* 63_GridView.swift in Sources */,
 				CB65DC3E2AFA7D45000F0680 /* 25_Alerts.swift in Sources */,
 				CB65DC672AFCEB73000F0680 /* IntroView.swift in Sources */,
 				CB65DC5C2AFBE033000F0680 /* 40_OnTapGesture.swift in Sources */,
@@ -375,8 +392,11 @@
 				CB65DC4C2AFAE1CC000F0680 /* 32_ColorPicker.swift in Sources */,
 				CB65DC562AFBA98D000F0680 /* 37_DarkMode.swift in Sources */,
 				CB65DC242AF904ED000F0680 /* 12_ScrollView.swift in Sources */,
+				185962E72B9546A8000A45B3 /* 62_NavigationSplitView.swift in Sources */,
+				185962E62B9546A8000A45B3 /* 64_ContentUnavailableView.swift in Sources */,
 				CB65DC282AF91328000F0680 /* 14_SafeArea.swift in Sources */,
 				CB65DC522AFB9F35000F0680 /* 35_Slider.swift in Sources */,
+				185962E52B9546A8000A45B3 /* 65_ControlGroupMenu.swift in Sources */,
 				CB65DC382AFA64E9000F0680 /* 22_NavigationStack.swift in Sources */,
 				CB65DC302AF98478000F0680 /* 18_AnimationCurves.swift in Sources */,
 				CB286D482AF2A8F2004BE3AF /* SwiftUI_BasicApp.swift in Sources */,
